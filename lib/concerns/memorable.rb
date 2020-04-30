@@ -5,9 +5,9 @@ module Memorable
         self.all.clear
       end
 
-  #def self.count
-    #self.all.count
-  #end
+      def count
+        self.all.count
+      end
   end
   
 end
